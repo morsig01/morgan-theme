@@ -4,9 +4,9 @@
   "author": {
     "name": "morgan"
   },
-  "publisher": "morgan",
+  "publisher": "morgantechdev",
   "description": "Morgans very own supercool vscode theme to make his coding exquisite.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.104.0"
   },
