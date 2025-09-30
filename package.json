@@ -1,0 +1,32 @@
+{
+  "name": "morgan-theme",
+  "displayName": "Morgan Theme",
+  "author": {
+    "name": "morgan"
+  },
+  "publisher": "morgan",
+  "description": "Morgans very own supercool vscode theme to make his coding exquisite.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.104.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "homepage": "https://morgansigland.vercel.app/",
+  "repository": "https://github.com/morsig01/morgan-theme",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Morgan Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Morgan-dark-color-theme.json"
+      },
+      {
+        "label": "Morgan Light",
+        "uiTheme": "vs",
+        "path": "./themes/Morgan-light-color-theme.json"
+      }
+    ]
+  }
+}
